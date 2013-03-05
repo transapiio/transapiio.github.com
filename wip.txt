@@ -1,0 +1,122 @@
+Task					Cost			Time
+Open Gmail Account						Free			5 minutes
+transapiio@gmail.com	
+4Mark2MakeBeauty!
+
+install password management solution
+you are going to have a lot of accounts. Your passwords should be strong. And you do not want to waste time searching for them.
+1Password #expense
+
+Register Domain Name
+travis.mccutcheon@gmail.com				$100			10 minutes
+4Mark2MakeBeauty!
+
+NS1.BRAZOSIT.COM
+NS2.BRAZOSIT.COM
+
+Set Up Google Apps
+travis@transapi.io
+77!lqtMLovelYvDay
+Verify your ownership
+verify domain: google-site-verification=zAT6ovq1DS3ZXbud4wMLNu5Y8qyvItSj7N0D4uiNHwE
+
+Install Chat
+
+http://try.github.com/
+
+Open Github Account
+transapiio@gmail.com
+transapiio
+transapiio.github.com
+
+turn account into an organization
+add owners
+	Owners have full access to all repositories and admin rights to the organization.
+
+Set Up Pages
+https://help.github.com/articles/setting-up-a-custom-domain-with-pages
+https://help.github.com/articles/using-jekyll-with-pages
+https://github.com/mojombo/jekyll
+
+Verify your ownership for Google Apps
+verify domain: google-site-verification=zAT6ovq1DS3ZXbud4wMLNu5Y8qyvItSj7N0D4uiNHwE
+
+add meta tag to head of index GitHub page
+
+Drill Down: 
+
+git remote add origin git@github.com:transapiio/transapiio.github.com.git
+
+
+Friday, February 22
+Looked at the site about 4:45 and said, "Oh Shit!"
+I had been playing with git the night before and somehow overwrote index.html with content from another site. Doh!
+Got the page restored.
+
+Added email accounts:
+	brent@transapi.io
+	accounts@transapi.io
+
+The accounts email address is used when signing up for all vendors. This keeps the founders boxes uncluttered and all the information in the same box.
+
+Set up segment.io, gauges and Google Analytics.
+
+
+
+ToDO:
+#print
+	git deck
+
+
+
+
+
+Refactor:
+set up accounts@tranaspi.io Gravatar account
+
+
+#protip block internal IP addresses from tracking software. This lets you see customers and not employees.
+
+#protip
+keep a list of items that need to be changed or updated
+tag them with #refactor
+
+Getting the items listed gets them out of the way and provides future tasks to be prioritized later.
+
+Manage Advanced DNS Records.
+Under the Text (TXT Records) heading, click Add/Edit.
+In the Host field, enter @.
+Leave the TTL field set to the default value.
+In the Text field, copy and paste the following unique security token:
+	
+google-site-verification=zAT6ovq1DS3ZXbud4wMLNu5Y8qyvItSj7N0D4uiNHwE
+
+DNS Hosting (#refactor: transfer to Rackspace)
+
+1. Add the TXT record below to the DNS configuration for transapi.io.
+google-site-verification=zAT6ovq1DS3ZXbud4wMLNu5Y8qyvItSj7N0D4uiNHwE
+
+2. Custom DNS
+https://github.com/transapiio/transapiio.github.com.git/info/refs
+
+To Check Out:
+http://www.strongmail.com/
+RapLeaf
+
+Rapportive
+
+Master our craft.
+Know our tools.
+	-command line
+	-GIT
+
+email acounts:
+howdy@transapi.io
+abuse@transapi.ip
+postmaster@transapi.io
+
+Potential add-on to marketing platforms like marketo and HubSpot.
+
+
+
+
